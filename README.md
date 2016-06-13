@@ -1,1 +1,1 @@
-# SUMMARY OF FAMOUS ARCHITECTURES
+# Summary of famous architectures
